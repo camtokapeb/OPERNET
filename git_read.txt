@@ -1,0 +1,2 @@
+# убрать ошибку fatal: LF would be replaced by CRLF
+git config core.autocrlf input
